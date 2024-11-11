@@ -1,0 +1,3 @@
+https://github.com/formacionmbm/javascript_practicas.git
+
+git remote add origin https://github.com/formacionmbm/javascript_practicas.git
